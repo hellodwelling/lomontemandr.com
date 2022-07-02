@@ -2,3 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://lomontemandr.com/index</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/store</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/reviews</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/gallery-All</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/gallery-Interior-Renovations</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/gallery-Exterior-Renovations</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/service-Kitchen-Remodeling</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/service-Bathroom-Remodeling</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/service-Drywall-&-Plastering</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/service-Carpentry</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/service-Flooring-Installation</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/service-Roofing</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/service-Painting</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/service-Water-Damage-Repair</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/service-Fire-Restoration</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lomontemandr.com/service-Handyman-Services</loc>
+        <lastmod>2022-07-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
